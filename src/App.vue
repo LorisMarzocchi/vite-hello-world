@@ -1,10 +1,13 @@
 <script>
   import Ciao from './components/Ciao.vue';
+  import Jumbo from './components/Jumbo.vue';
+
   
   export default{
 
     components: {
       Ciao,
+      Jumbo,
     },
   };
 
@@ -14,6 +17,8 @@
 <template>
   <div>
     <Ciao />
+    <Jumbo />
+
   </div>
 </template>
 
