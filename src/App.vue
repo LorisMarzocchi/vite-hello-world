@@ -24,6 +24,9 @@
 
 
 <style scoped>
-
+  div{
+    width: 400px;
+    margin: auto;
+  }
   
 </style>

@@ -13,10 +13,5 @@
 
 
 <style scoped>
-    img{
-        margin: auto;
-        height: 200px;
-        width: 200px;
-    }
-  
+   
 </style>
